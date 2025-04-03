@@ -1,0 +1,9 @@
+I create new folder in laptop and new repo on github and connecting both
+
+git init
+git add .
+git commit -m "geminiClone"
+git remote add origin https://github.com/newRepo.git
+git branch -M main
+git push
+git push --set-upstream origin main
